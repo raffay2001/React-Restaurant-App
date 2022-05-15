@@ -39,7 +39,7 @@ class DishDetail extends Component {
             });
 
             return (
-                <div>
+                <div className="container">
                     <h1>Comments:</h1>
                     {comments}
                 </div>
