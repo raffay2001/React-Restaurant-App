@@ -46,6 +46,7 @@ export const DISHES =
                 }
             ]
         },
+
         {
             id: 1,
             name: 'Zucchipakoda',
@@ -92,6 +93,7 @@ export const DISHES =
                 }
             ]
         },
+
         {
             id: 2,
             name: 'Vadonut',
@@ -138,6 +140,7 @@ export const DISHES =
                 }
             ]
         },
+
         {
             id: 3,
             name: 'ElaiCheese Cake',
@@ -184,4 +187,5 @@ export const DISHES =
                 }
             ]
         }
+        
     ];
